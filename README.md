@@ -1,7 +1,5 @@
-### Hi there 👋, Thobani
-#### Software Developer 
 ![Software Developer ](https://yt3.googleusercontent.com/oT8FitdUT6al0vLZS30oWpIzq5e0FQQRhjQeEGnGq0EcyounRMeEIJ1aTWIqFuIiRXJKJKe_=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
+Hi there 👋
 I'm a passionate software developer with a strong focus on .NET Core and a keen interest in advancing the fields of Artificial Intelligence, semiconductors, and research. My GitHub repositories reflect my diverse interests and my commitment to both learning and contributing to the cutting edge of technology
 
 
