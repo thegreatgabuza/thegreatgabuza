@@ -1,5 +1,5 @@
 ![Software Developer ](https://yt3.googleusercontent.com/oT8FitdUT6al0vLZS30oWpIzq5e0FQQRhjQeEGnGq0EcyounRMeEIJ1aTWIqFuIiRXJKJKe_=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-Hi there 👋
+### Hi there 👋, Thobani
 I'm a passionate software developer with a strong focus on .NET Core and a keen interest in advancing the fields of Artificial Intelligence, semiconductors, and research. My GitHub repositories reflect my diverse interests and my commitment to both learning and contributing to the cutting edge of technology
 
 
@@ -12,7 +12,11 @@ Skills: C# / SQL Server / JS / HTML / CSS/ Azure/ DevOps
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thegreatgabuza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thobani-gabuza-20782a181//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/thegreatgabuza//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC84ibi9oPzBZbwIq9wAACig)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=thegreatgabuza)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=thegreatgabuza)  
+
+
 
 
 
