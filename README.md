@@ -7,7 +7,7 @@ Skills: C# / SQL Server / JS / HTML / CSS/ Azure/ DevOps
 
 - 🔭 I’m currently working on .net saas 
 - 🌱 I’m currently learning Power Bi 
-- 📫 How to reach me: 21942024@dut4life.ac.za 
+- 📫 How to reach me: 21942025@dut4life.ac.za 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thegreatgabuza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thobani-gabuza-20782a181//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/thegreatgabuza//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC84ibi9oPzBZbwIq9wAACig)  
