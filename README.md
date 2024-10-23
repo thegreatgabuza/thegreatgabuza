@@ -6,7 +6,7 @@ I'm a passionate software developer with a strong focus on .NET Core and a keen 
 Skills: C# / SQL Server / JS / HTML / CSS/ Azure/ DevOps
 
 - 🔭 I’m currently working on .net saas 
-- 🌱 I’m currently learning Power Bi 
+- 🌱 I’m currently learning Django
 - 📫 How to reach me: 21942025@dut4life.ac.za 
 
 
