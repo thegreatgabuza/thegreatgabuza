@@ -1,5 +1,3 @@
-![Software Developer Banner](https://yt3.googleusercontent.com/oT8FitdUT6al0vLZS30oWpIzq5e0FQQRhjQeEGnGq0EcyounRMeEIJ1aTWIqFuIiRXJKJKe_=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-
 # Thobani Gabuza - Software Engineer
 
 ## 👋 Hello, World!
@@ -9,7 +7,7 @@ I'm a passionate software engineer with expertise in .NET Core and an insatiable
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/thegreatgabuza?style=social)](https://github.com/thegreatgabuza)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thegreatgabuza&column=4&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thegreatgabuza&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -47,7 +45,7 @@ I'm a passionate software engineer with expertise in .NET Core and an insatiable
 
 <div align="center">
   
-![GitHub streak stats](https://streak-stats.demolab.com/?user=thegreatgabuza&theme=dark)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=thegreatgabuza)
 
 </div>
 
