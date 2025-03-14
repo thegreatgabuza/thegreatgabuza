@@ -2,7 +2,7 @@
 
 ## 👋 Hello, World!
 
-I'm a passionate software engineer with expertise in .NET Core and an insatiable curiosity for cutting-edge technologies. My professional journey is driven by a commitment to excellence and innovation in Artificial Intelligence, semiconductor technology, and research-driven development. My repositories showcase both my technical versatility and my dedication to advancing the technological frontier.
+I'm a passionate software engineer with expertise in .NET Core and a growing portfolio of innovative projects. My professional journey is driven by a commitment to excellence and continuous innovation at the intersection of enterprise software, AI/ML, and cloud technologies.
 
 <div align="center">
 
@@ -14,21 +14,29 @@ I'm a passionate software engineer with expertise in .NET Core and an insatiable
 ## 💻 Technical Arsenal
 
 ```
-█▀▀ █▀█ █▀█ █▀▀   █▀█ █▀█ █▀█ █▀▀ █ █▀▀ █ █▀▀ █▄░█ █▀▀ █▄█
-█▄▄ █▄█ █▀▄ ██▄   █▀▀ █▀▄ █▄█ █▀░ █ █▄▄ █ █▄▄ █░▀█ █▄▄ ░█░
+█▀▀ █▀█ █▀█ █▀▀   █▀ ▀█▀ █▀█ █▀▀ █▄▀
+█▄▄ █▄█ █▀▄ ██▄   ▄█ ░█░ █▄█ █▄▄ █░█
 ```
 
-- **Languages**: C#, JavaScript, HTML5, CSS3, SQL
-- **Frameworks**: .NET Core, ASP.NET
-- **Cloud & DevOps**: Azure, DevOps, CI/CD Pipelines
+- **Languages**: C#, JavaScript, Python, HTML5, CSS3, SQL
+- **Frameworks**: .NET Core, ASP.NET MVC, Flask, Tailwind CSS
+- **Cloud & DevOps**: Azure, DevOps, CI/CD Pipelines, GitHub Actions
 - **Database**: SQL Server, Entity Framework
+- **AI/ML**: Face Recognition, Natural Language Processing, AI Assistants
 - **Tools & Practices**: Git, Agile Methodologies, Test-Driven Development
 
-## 🚀 Current Endeavors
+## 🔭 Current Focus
 
-- 🔭 I'm currently working on: **.NET SaaS platform**
-- 🌱 I'm currently learning: **Redis**
+- 🔭 I'm working on: **.NET SaaS platforms & AI-integrated applications**
+- 🌱 I'm learning: **Redis** for high-performance caching solutions
 - 📫 How to reach me: **21942025@dut4life.ac.za**
+
+## 🧪 Recent Projects
+
+- **[PDF-Summarizer](https://github.com/thegreatgabuza/PDF-Summarizer)**: A modern Flask application that extracts text from PDF files and generates AI-powered summaries
+- **[Face Recognition System](https://github.com/thegreatgabuza/face_recognition_teegee)**: Computer vision application for facial recognition using Python, OpenCV and face_recognition
+- **[WeatherApp](https://github.com/thegreatgabuza/WeatherApp)**: Flask-based weather information application integrating with OpenWeather API
+- **[Deployment2](https://github.com/thegreatgabuza/Deployment2)**: ASP.NET Core MVC application demonstrating CI/CD with GitHub Actions and Azure
 
 ## 🔗 Connect With Me
 
@@ -51,26 +59,30 @@ I'm a passionate software engineer with expertise in .NET Core and an insatiable
 
 ## 🛠️ Technical Expertise
 
-### .NET Core Development
-Building enterprise-grade applications with .NET Core, from robust web APIs to high-performance microservices. My projects showcase clean architecture, SOLID principles, and performance optimization techniques that make applications not just functional, but exceptional.
+### .NET Core & Enterprise Development
+Building robust, scalable applications with .NET Core, from web APIs to microservices. My projects demonstrate clean architecture principles, SOLID design, and performance optimization for enterprise-grade solutions.
 
-### AI & Machine Learning
-Leveraging artificial intelligence to solve real-world problems. My work includes contributions to AI data management systems, computer vision applications incorporating facial recognition, and conversational AI models that enhance user experiences.
+### AI & Machine Learning Integration
+Creating practical AI-powered applications including:
+- Text summarization systems with NLP algorithms
+- Computer vision solutions with facial recognition capabilities
+- Data analysis and visualization tools
+- Conversational AI assistants
 
-### Web Development & Cloud Solutions
-Creating scalable, responsive web applications deployed on Azure. My projects demonstrate proficiency in modern frontend technologies alongside powerful backend systems, all orchestrated to deliver seamless user experiences across devices.
+### Full-Stack Web Development
+Developing end-to-end web applications with modern frontend technologies and powerful backend systems. My portfolio showcases responsive design, intuitive UX, and seamless integration with various APIs and cloud services.
 
-### Open Source Collaboration
-Active contributor to the global developer community through open-source projects. This engagement keeps me at the cutting edge of technology while fostering valuable collaborations with talented developers worldwide.
+### Cloud Solutions & DevOps
+Implementing automated CI/CD pipelines and cloud-native applications on Azure. My projects leverage GitHub Actions for deployment automation, containerization for scalability, and Azure services for robust hosting solutions.
 
 ## 🔭 Professional Vision
 
-I am dedicated to pushing technological boundaries through continuous learning and innovation. My current focus is on:
+I am dedicated to pushing technological boundaries by:
 
-- Exploring advanced Redis implementations for high-performance caching solutions
-- Deepening my understanding of practical AI applications in enterprise systems
-- Investigating how emerging semiconductor technologies can enhance computing capabilities
-- Architecting more sustainable, scalable cloud solutions
+- Exploring high-performance Redis implementations for optimized caching
+- Developing more sophisticated AI integrations within enterprise applications
+- Creating scalable SaaS solutions with multi-tenancy architecture
+- Building sustainable, maintainable codebases using cutting-edge practices
 
 ---
 
