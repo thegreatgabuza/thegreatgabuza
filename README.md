@@ -1,35 +1,81 @@
-![Software Developer ](https://yt3.googleusercontent.com/oT8FitdUT6al0vLZS30oWpIzq5e0FQQRhjQeEGnGq0EcyounRMeEIJ1aTWIqFuIiRXJKJKe_=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
-### Hi there 👋
-I'm a passionate software developer with a strong focus on .NET Core and a keen interest in advancing the fields of Artificial Intelligence, semiconductors, and research. My GitHub repositories reflect my diverse interests and my commitment to both learning and contributing to the cutting edge of technology
+![Software Developer Banner](https://yt3.googleusercontent.com/oT8FitdUT6al0vLZS30oWpIzq5e0FQQRhjQeEGnGq0EcyounRMeEIJ1aTWIqFuIiRXJKJKe_=w2120-fcrop64=1,00005a57ffffa5a8-k-c0xffffffff-no-nd-rj)
 
+# Thobani Gabuza - Software Engineer
 
-Skills: C# / SQL Server / JS / HTML / CSS/ Azure/ DevOps
+## 👋 Hello, World!
 
-- 🔭 I’m currently working on .net saas 
-- 🌱 I’m currently learning Django
-- 📫 How to reach me: 21942025@dut4life.ac.za 
+I'm a passionate software engineer with expertise in .NET Core and an insatiable curiosity for cutting-edge technologies. My professional journey is driven by a commitment to excellence and innovation in Artificial Intelligence, semiconductor technology, and research-driven development. My repositories showcase both my technical versatility and my dedication to advancing the technological frontier.
 
+<div align="center">
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thegreatgabuza)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/thobani-gabuza-20782a181//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/thegreatgabuza//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC84ibi9oPzBZbwIq9wAACig)  
+[![GitHub followers](https://img.shields.io/github/followers/thegreatgabuza?style=social)](https://github.com/thegreatgabuza)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thegreatgabuza&column=4&margin-w=15&margin-h=15&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=thegreatgabuza)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=thegreatgabuza)  
+## 💻 Technical Arsenal
 
+```
+█▀▀ █▀█ █▀█ █▀▀   █▀█ █▀█ █▀█ █▀▀ █ █▀▀ █ █▀▀ █▄░█ █▀▀ █▄█
+█▄▄ █▄█ █▀▄ ██▄   █▀▀ █▀▄ █▄█ █▀░ █ █▄▄ █ █▄▄ █░▀█ █▄▄ ░█░
+```
 
+- **Languages**: C#, JavaScript, HTML5, CSS3, SQL
+- **Frameworks**: .NET Core, ASP.NET
+- **Cloud & DevOps**: Azure, DevOps, CI/CD Pipelines
+- **Database**: SQL Server, Entity Framework
+- **Tools & Practices**: Git, Agile Methodologies, Test-Driven Development
 
+## 🚀 Current Endeavors
 
+- 🔭 I'm currently working on: **.NET SaaS platform**
+- 🌱 I'm currently learning: **Redis**
+- 📫 How to reach me: **21942025@dut4life.ac.za**
 
-### My Expertise
+## 🔗 Connect With Me
 
-- **.NET Core**: I have experience in building robust applications using .NET Core. My projects range from web applications to systems that leverage capabilities of the .NET ecosystem.
-- **AI and Machine Learning**: I am deeply interested in AI, particularly in how it can be integrated into practical applications. My work includes contributions to AI data management systems and involvement in projects that utilize AI for facial recognition and conversational models.
-- **Web Development**: Deploying scalable web applications using modern technologies on platforms like Azure is another area where I excel. My projects demonstrate my capability in using HTML, JavaScript, and CSS alongside backend technologies to create seamless user experiences.
-- **Open Source Contribution**: I actively contribute to various open-source projects, which helps me stay at the forefront of technology and collaborate with other developers worldwide.
+<div align="center">
+  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/thegreatgabuza)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/thobani-gabuza-20782a181/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/thegreatgabuza/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC84ibi9oPzBZbwIq9wAACig)
 
-### My Goals
+</div>
 
-I am continuously exploring new technologies and methodologies to improve my skills and contribute more effectively to my projects. My current focus is on deepening my understanding of AI applications in real-world scenarios and exploring how semiconductor technology can further enhance computing capabilities.
+## 📊 GitHub Metrics
 
+<div align="center">
+  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=thegreatgabuza&theme=dark)
 
+</div>
 
+## 🛠️ Technical Expertise
+
+### .NET Core Development
+Building enterprise-grade applications with .NET Core, from robust web APIs to high-performance microservices. My projects showcase clean architecture, SOLID principles, and performance optimization techniques that make applications not just functional, but exceptional.
+
+### AI & Machine Learning
+Leveraging artificial intelligence to solve real-world problems. My work includes contributions to AI data management systems, computer vision applications incorporating facial recognition, and conversational AI models that enhance user experiences.
+
+### Web Development & Cloud Solutions
+Creating scalable, responsive web applications deployed on Azure. My projects demonstrate proficiency in modern frontend technologies alongside powerful backend systems, all orchestrated to deliver seamless user experiences across devices.
+
+### Open Source Collaboration
+Active contributor to the global developer community through open-source projects. This engagement keeps me at the cutting edge of technology while fostering valuable collaborations with talented developers worldwide.
+
+## 🔭 Professional Vision
+
+I am dedicated to pushing technological boundaries through continuous learning and innovation. My current focus is on:
+
+- Exploring advanced Redis implementations for high-performance caching solutions
+- Deepening my understanding of practical AI applications in enterprise systems
+- Investigating how emerging semiconductor technologies can enhance computing capabilities
+- Architecting more sustainable, scalable cloud solutions
+
+---
+
+<div align="center">
+  <i>"Life is what you make it."</i>
+</div>
