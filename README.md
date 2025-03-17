@@ -1,4 +1,4 @@
-# Thobani Gabuza - Software Engineer
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Thobani%20Gabuza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=30&desc=Software%20Engineer%20|%20.NET%20Core%20|%20AI/ML%20Integrations&descAlignY=50&descAlign=62" />
 
 ## 👋 Hello, World!
 
@@ -7,16 +7,20 @@ I'm a passionate software engineer with expertise in .NET Core and a growing por
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/thegreatgabuza?style=social)](https://github.com/thegreatgabuza)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=thegreatgabuza&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=.NET+Core+Developer;AI+Integration+Specialist;Full-Stack+Engineer;Cloud+Solutions+Architect&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 
 </div>
 
 ## 💻 Technical Arsenal
 
-```
-█▀▀ █▀█ █▀█ █▀▀   █▀ ▀█▀ █▀█ █▀▀ █▄▀
-█▄▄ █▄█ █▀▄ ██▄   ▄█ ░█░ █▄█ █▄▄ █░█
-```
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 - **Languages**: C#, JavaScript, Python, HTML5, CSS3, SQL
 - **Frameworks**: .NET Core, ASP.NET MVC, Flask, Tailwind CSS
@@ -27,16 +31,29 @@ I'm a passionate software engineer with expertise in .NET Core and a growing por
 
 ## 🔭 Current Focus
 
-- 🔭 I'm working on: **.NET SaaS platforms & AI-integrated applications**
-- 🌱 I'm learning: **Redis** for high-performance caching solutions
-- 📫 How to reach me: **21942025@dut4life.ac.za**
+<table>
+  <tr>
+    <td>🔭 I'm working on:</td>
+    <td><b>.NET SaaS platforms & AI-integrated applications</b></td>
+  </tr>
+  <tr>
+    <td>🌱 I'm learning:</td>
+    <td><b>Redis</b> for high-performance caching solutions</td>
+  </tr>
+  <tr>
+    <td>📫 How to reach me:</td>
+    <td><b>21942025@dut4life.ac.za</b></td>
+  </tr>
+</table>
 
 ## 🧪 Recent Projects
 
-- **[PDF-Summarizer](https://github.com/thegreatgabuza/PDF-Summarizer)**: A modern Flask application that extracts text from PDF files and generates AI-powered summaries
-- **[Face Recognition System](https://github.com/thegreatgabuza/face_recognition_teegee)**: Computer vision application for facial recognition using Python, OpenCV and face_recognition
-- **[WeatherApp](https://github.com/thegreatgabuza/WeatherApp)**: Flask-based weather information application integrating with OpenWeather API
-- **[Deployment2](https://github.com/thegreatgabuza/Deployment2)**: ASP.NET Core MVC application demonstrating CI/CD with GitHub Actions and Azure
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=PDF-Summarizer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=face_recognition_teegee&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=WeatherApp&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=Deployment2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" />
+</div>
 
 ## 🔗 Connect With Me
 
@@ -53,11 +70,19 @@ I'm a passionate software engineer with expertise in .NET Core and a growing por
 
 <div align="center">
   
-![GitHub streak stats](https://streak-stats.demolab.com/?user=thegreatgabuza)
+![GitHub streak stats](https://streak-stats.demolab.com/?user=thegreatgabuza&theme=tokyonight)
 
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=thegreatgabuza&theme=radical&no-frame=false&no-bg=true&margin-w=4&column=7" />
+</div>
+
 ## 🛠️ Technical Expertise
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,py,html,css,azure,github,docker,flask,tailwind,vscode&perline=6" />
+</div>
 
 ### .NET Core & Enterprise Development
 Building robust, scalable applications with .NET Core, from web APIs to microservices. My projects demonstrate clean architecture principles, SOLID design, and performance optimization for enterprise-grade solutions.
@@ -87,5 +112,6 @@ I am dedicated to pushing technological boundaries by:
 ---
 
 <div align="center">
-  <i>"Life is what you make it."</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <p><i>"Life is what you make it."</i></p>
 </div>
