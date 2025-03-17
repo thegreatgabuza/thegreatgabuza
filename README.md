@@ -44,9 +44,9 @@
     </td>
     <td width="50%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itmmckernan/vintage-basic/master/art/basic-vintage-dark.png">
-        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itmmckernan/vintage-basic/master/art/basic-vintage-art.svg">
-        <img src="https://raw.githubusercontent.com/itmmckernan/vintage-basic/master/art/basic-vintage-art.svg" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/238200838-76036311-c5ea-4ea7-b7dc-73fda01af2dc.gif">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100%" />
       </picture>
     </td>
   </tr>
@@ -160,9 +160,9 @@
   <tr>
     <td width="40%">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/trinib/trinib/main/.images/walkingcodeneon.gif">
-        <source media="(prefers-color-scheme: light)" srcset="https://i.imgur.com/7JGQ3zg.gif">
-        <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/walkingcodeneon.gif" width="100%" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
+        <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif">
+        <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%" />
       </picture>
     </td>
     <td width="60%" valign="top">
