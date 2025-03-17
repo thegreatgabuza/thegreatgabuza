@@ -21,18 +21,7 @@
 
 <!-- THE PAST: FOUNDATIONS -->
 <div align="center">
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="600" />
-  </picture>
   <h1>📜 The Foundations</h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/235294007-de441046-823e-4eff-89bf-d4df52858b65.gif" width="600" />
-  </picture>
 </div>
 
 <table>
@@ -64,18 +53,7 @@
 
 <!-- THE PRESENT: CURRENT EXPERTISE -->
 <div align="center">
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
-  </picture>
   <h1>⚙️ The Present Mastery</h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
-  </picture>
 </div>
 
 <p align="center">
@@ -142,18 +120,7 @@
 
 <!-- THE FUTURE: ASPIRATIONS -->
 <div align="center">
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284116-c5c0cc5e-1944-4d67-9d19-06269e5034e3.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284116-c5c0cc5e-1944-4d67-9d19-06269e5034e3.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/212284116-c5c0cc5e-1944-4d67-9d19-06269e5034e3.gif" width="600" />
-  </picture>
   <h1>🔮 The Future Vision</h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284116-c5c0cc5e-1944-4d67-9d19-06269e5034e3.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284116-c5c0cc5e-1944-4d67-9d19-06269e5034e3.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/212284116-c5c0cc5e-1944-4d67-9d19-06269e5034e3.gif" width="600" />
-  </picture>
 </div>
 
 <table>
@@ -182,18 +149,7 @@
 
 <!-- EXPERTISE DETAILS -->
 <div align="center">
-  <br />
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
-  </picture>
   <h1>🛠️ Core Competencies</h1>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
-    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" />
-  </picture>
 </div>
 
 <details>
