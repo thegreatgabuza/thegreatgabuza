@@ -1,143 +1,151 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,100:006400&height=190&section=header&text=THOBANI%20GABUZA&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20.NET%20Core%20%7C%20AI/ML&descAlignY=60&descAlign=50" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Thobani%20Gabuza&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=A%20Journey%20Through%20Code%20and%20Innovation&descAlignY=65" width="100%" />
 </div>
 
+<!-- INTRODUCTION -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=25&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+Welcome+to+my+digital+realm;%3E+Software+architecture+craftsman;%3E+AI+integration+specialist;%3E+Cloud+solutions+architect" alt="Typing SVG" /></a>
+  <em>"Life is what you make it."</em>
 </p>
 
 <p align="center">
-  <samp>
-    I'm a passionate software engineer with expertise in .NET Core and a growing portfolio of innovative projects at the intersection of enterprise software, AI/ML, and cloud technologies.
-  </samp>
+  <a href="https://linkedin.com/in/thobani-gabuza-20782a181"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://github.com/thegreatgabuza"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
+  <a href="https://youtube.com/channel/UC84ibi9oPzBZbwIq9wAACig"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"/></a>
+  <a href="https://www.instagram.com/thegreatgabuza/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:21942025@dut4life.ac.za"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<!-- Matrix-style connection links -->
+<!-- THE PAST: FOUNDATIONS -->
 <div align="center">
-  <a href="https://www.linkedin.com/in/thobani-gabuza-20782a181/">
-    <img src="https://img.shields.io/badge/-LinkedIn-00?style=flat-square&logo=Linkedin&logoColor=lime&color=black" />
-  </a>
-  <a href="https://github.com/thegreatgabuza">
-    <img src="https://img.shields.io/badge/-GitHub-00?style=flat-square&logo=Github&logoColor=lime&color=black" />
-  </a>
-  <a href="https://www.youtube.com/channel/UC84ibi9oPzBZbwIq9wAACig">
-    <img src="https://img.shields.io/badge/-YouTube-00?style=flat-square&logo=Youtube&logoColor=lime&color=black" />
-  </a>
-  <a href="https://www.instagram.com/thegreatgabuza/">
-    <img src="https://img.shields.io/badge/-Instagram-00?style=flat-square&logo=Instagram&logoColor=lime&color=black" />
-  </a>
-  <a href="mailto:21942025@dut4life.ac.za">
-    <img src="https://img.shields.io/badge/-Email-00?style=flat-square&logo=Gmail&logoColor=lime&color=black" />
-  </a>
+  <br />
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="600" />
+  <h1>📜 The Foundations</h1>
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="600" />
 </div>
 
-<!-- Matrix Terminal -->
-<div align="center">
-  <br/>
-  <img src="https://i.imgur.com/r0Dgk6j.gif" width="600px" height="300px">
-  <br/><br/>
-</div>
-
-<!-- Matrix Skills -->
-<div align="center">
-  <h2> < Technical Arsenal /> </h2>
-</div>
-
-```shell
-> Loading skills.dll...
-> Initializing skill modules...
-> Accessing core competencies...
-```
-
-<table align="center" border="none">
+<table>
   <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs,dotnet,azure" />
-      <br><b>.NET Stack</b>
+    <td width="50%" valign="top">
+      <h3>The Beginning</h3>
+      <p>My journey began with the fundamentals: HTML, CSS, and the building blocks of web development. Like the early printing presses that revolutionized knowledge sharing, these tools formed the foundation of my technical understanding.</p>
+      <p>Early projects like <a href="https://github.com/thegreatgabuza/OnlineStoreOne">OnlineStoreOne</a> represent these formative steps - simple yet crucial first attempts at bringing ideas to digital life.</p>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py,flask,pytorch" />
-      <br><b>AI/ML Tools</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=js,html,css,tailwind" />
-      <br><b>Web Tech</b>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github,docker,vscode,redis" />
-      <br><b>DevOps & Tools</b>
+    <td width="50%">
+      <img src="https://raw.githubusercontent.com/itmmckernan/vintage-basic/master/art/basic-vintage-art.svg" width="100%" />
     </td>
   </tr>
 </table>
 
-<!-- Current Focus -->
-<br/>
+<br />
+
 <div align="center">
-  <h2> < Current_Focus /> </h2>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=OnlineStoreOne&theme=calm" width="48%" />
 </div>
 
-<table align="center" style="background-color:#0a0c10; color:#00FF00; border-radius:10px;">
-  <tr>
-    <td><b>⚡ Working on:</b></td>
-    <td>.NET SaaS platforms & AI-integrated applications</td>
-  </tr>
-  <tr>
-    <td><b>🧠 Learning:</b></td>
-    <td>Redis for high-performance caching solutions</td>
-  </tr>
-  <tr>
-    <td><b>🔍 Exploring:</b></td>
-    <td>Advanced cloud architectures & distributed systems</td>
-  </tr>
-</table>
-
-<!-- GitHub Stats with Matrix Theme -->
-<br/>
+<!-- THE PRESENT: CURRENT EXPERTISE -->
 <div align="center">
-  <h2> < System_Stats /> </h2>
+  <br />
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="600" />
+  <h1>⚙️ The Present Mastery</h1>
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="600" />
+</div>
+
+<p align="center">
+  <em>Today, I stand at the intersection of robust backend systems and innovative AI integration.</em>
+</p>
+
+<div style="background: linear-gradient(90deg, #f8f9fa 0%, #e9ecef 100%); border-radius: 10px; padding: 20px; margin: 20px 0;">
+  <h3>Current Technical Arsenal</h3>
+  
+  <div align="center">
+    <img src="https://skillicons.dev/icons?i=cs" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=azure" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=python" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=js" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=html" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=css" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=git" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=github" width="50" height="50" />
+    <img src="https://skillicons.dev/icons?i=redis" width="50" height="50" />
+  </div>
+
+  <h3>Current Focus</h3>
+  <ul>
+    <li>Building enterprise-grade .NET applications with clean architecture</li>
+    <li>Implementing AI/ML solutions for real-world problems</li>
+    <li>Mastering Redis for high-performance caching</li>
+    <li>Developing SaaS platforms with multi-tenancy architecture</li>
+  </ul>
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thegreatgabuza&theme=matrix" alt="GitHub Stats" /><br/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=thegreatgabuza&show_icons=true&count_private=true&theme=chartreuse-dark&bg_color=00000000&hide_border=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=thegreatgabuza&theme=chartreuse-dark&background=00000000&hide_border=true" alt="GitHub Streak" /><br/>
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thegreatgabuza&layout=compact&theme=chartreuse-dark&bg_color=00000000&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thegreatgabuza&show_icons=true&theme=calm" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thegreatgabuza&theme=calm" width="48%" />
 </div>
 
-<!-- Featured Projects with Matrix theme -->
-<br/>
+<!-- THE PRESENT: SHOWCASE PROJECTS -->
 <div align="center">
-  <h2> < Notable_Projects /> </h2>
+  <h3>Notable Current Works</h3>
 </div>
 
 <div align="center">
   <a href="https://github.com/thegreatgabuza/PDF-Summarizer">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=PDF-Summarizer&theme=chartreuse-dark&bg_color=00000000&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=PDF-Summarizer&theme=calm" width="48%" />
   </a>
   <a href="https://github.com/thegreatgabuza/face_recognition_teegee">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=face_recognition_teegee&theme=chartreuse-dark&bg_color=00000000&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=face_recognition_teegee&theme=calm" width="48%" />
   </a>
 </div>
-
 <div align="center">
   <a href="https://github.com/thegreatgabuza/WeatherApp">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=WeatherApp&theme=chartreuse-dark&bg_color=00000000&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=WeatherApp&theme=calm" width="48%" />
   </a>
   <a href="https://github.com/thegreatgabuza/Deployment2">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=Deployment2&theme=chartreuse-dark&bg_color=00000000&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=thegreatgabuza&repo=Deployment2&theme=calm" width="48%" />
   </a>
 </div>
 
-<!-- Technical Expertise with Matrix theme -->
-<br/>
+<!-- THE FUTURE: ASPIRATIONS -->
 <div align="center">
-  <h2> < Core_Competencies /> </h2>
+  <br />
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="600" />
+  <h1>🔮 The Future Vision</h1>
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="600" />
+</div>
+
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://i.imgur.com/LbTtUl8.gif" width="100%" />
+    </td>
+    <td width="60%" valign="top">
+      <h3>Tomorrow's Horizons</h3>
+      <p>The future beckons with possibilities beyond our current imagination. My aspirations extend to:</p>
+      <ul>
+        <li>Pioneering AI solutions that transform how we interact with technology</li>
+        <li>Creating distributed systems that scale elegantly across cloud boundaries</li>
+        <li>Developing autonomous, self-healing applications with robust error recovery</li>
+        <li>Building immersive educational platforms that make learning a journey of discovery</li>
+        <li>Contributing to open-source projects that lift the entire developer community</li>
+      </ul>
+      <p><em>"The best way to predict the future is to create it."</em></p>
+    </td>
+  </tr>
+</table>
+
+<!-- EXPERTISE DETAILS -->
+<div align="center">
+  <br />
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="600" />
+  <h1>🛠️ Core Competencies</h1>
+  <img src="https://i.imgur.com/waxVImv.png" alt="Separator" width="600" />
 </div>
 
 <details>
-<summary style="color:#00FF00"><b>.NET Core & Enterprise Development</b></summary>
+<summary><b>🧰 .NET Core & Enterprise Development</b></summary>
 <br>
 <p>
 Building robust, scalable applications with .NET Core, from web APIs to microservices. My projects demonstrate clean architecture principles, SOLID design, and performance optimization for enterprise-grade solutions.
@@ -145,7 +153,7 @@ Building robust, scalable applications with .NET Core, from web APIs to microser
 </details>
 
 <details>
-<summary style="color:#00FF00"><b>AI & Machine Learning Integration</b></summary>
+<summary><b>🤖 AI & Machine Learning Integration</b></summary>
 <br>
 <p>
 Creating practical AI-powered applications including:
@@ -159,7 +167,7 @@ Creating practical AI-powered applications including:
 </details>
 
 <details>
-<summary style="color:#00FF00"><b>Full-Stack Web Development</b></summary>
+<summary><b>🌐 Full-Stack Web Development</b></summary>
 <br>
 <p>
 Developing end-to-end web applications with modern frontend technologies and powerful backend systems. My portfolio showcases responsive design, intuitive UX, and seamless integration with various APIs and cloud services.
@@ -167,19 +175,15 @@ Developing end-to-end web applications with modern frontend technologies and pow
 </details>
 
 <details>
-<summary style="color:#00FF00"><b>Cloud Solutions & DevOps</b></summary>
+<summary><b>☁️ Cloud Solutions & DevOps</b></summary>
 <br>
 <p>
 Implementing automated CI/CD pipelines and cloud-native applications on Azure. My projects leverage GitHub Actions for deployment automation, containerization for scalability, and Azure services for robust hosting solutions.
 </p>
 </details>
 
-<!-- Footer -->
-<br/>
+<!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:006400,100:00FF00&height=120&section=footer" width="100%" />
-  <br/>
-  <samp>
-    "Life is what you make it."
-  </samp>
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn" width="100%" />
 </div>
